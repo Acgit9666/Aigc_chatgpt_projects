@@ -1,0 +1,2 @@
+# Aigc_chatgpt_projects
+AIGC和基于ChatGPT的项目和应用集合站，整理分享有价值有意思的chatgpt衍生项目
